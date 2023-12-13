@@ -1,6 +1,6 @@
-### Hi there 👋
+### Projects for linux on Starfive
 
-Here some links to project of my!
+Fork of opvolgers guides with some changes I made
 
 - :penguin: [StarFive VisionFive 2 [RISC-V]](starfiveVisionFive2.md)
 <!--
